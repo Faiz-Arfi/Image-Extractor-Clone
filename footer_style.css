@@ -1,0 +1,22 @@
+footer{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(60, 67, 67);
+    font-size: 18px;
+}
+footer .copyright{
+    padding: 20px;
+    color: rgb(60, 67, 67);
+}
+footer .links ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+footer .links ul li{
+    padding: 20px;
+}
